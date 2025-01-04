@@ -59,8 +59,7 @@
             <li><a class="dropdown-item" href="/Assignment1/assignment11">Assignment1.1</a></li>
             <li><a class="dropdown-item" href="/Assignment1/assignment12">Assignment1.2</a></li>
             <li><a class="dropdown-item" href="/Assignment1/assignment13">Assignment1.3</a></li>
-            <li><a class="dropdown-item" href="#">Assignment1.4</a></li>
-            <li><a class="dropdown-item" href="#">Assignment1.5</a></li>
+            <li><a class="dropdown-item" href="/Assignment1/assignment14">Assignment1.4</a></li>
           </ul>
         </li>
 
@@ -69,6 +68,7 @@
             </div>
         </nav>
         <div class="container body-content">
+            <h6 style="margin-bottom:3rem;">Mayur Rogheliya - 22SOECE11045</h6>
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
