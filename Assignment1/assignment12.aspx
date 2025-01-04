@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Assignment1.2" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="assignment12.aspx.cs" Inherits="WebApplication1.Assignment1.assignment12" %>
 <asp:Content ID="BodyContent1" ContentPlaceHolderID="MainContent" runat="server">
     <main aria-labelledby="title">
+         <h2 class="text-center mb-4">Temperature Conversion. </h2>
         <div style="display:flex; align-items:center; gap:15px;">
             <div>
                 <label for="celsius" class="form-label">Celsius Number (℃)</label>
