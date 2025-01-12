@@ -103,6 +103,10 @@
     <Content Include="Assignment1\assignment12.aspx" />
     <Content Include="Assignment1\assignment13.aspx" />
     <Content Include="Assignment1\assignment14.aspx" />
+    <Content Include="Assignment2\AdvertisementMain.xml" />
+    <Content Include="Assignment2\assignment21.aspx" />
+    <Content Include="Assignment2\music-prod.jpg" />
+    <Content Include="Assignment2\piano.jpg" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -214,6 +218,13 @@
     </Compile>
     <Compile Include="Assignment1\assignment14.aspx.designer.cs">
       <DependentUpon>assignment14.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Assignment2\assignment21.aspx.cs">
+      <DependentUpon>assignment21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment2\assignment21.aspx.designer.cs">
+      <DependentUpon>assignment21.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/Assignment2/music-prod.jpg</ImageUrl>
+		<Keywords>Github</Keywords>
+		<NavigateUrl>https://github.com/mayurrogheliya</NavigateUrl>
+		<AlternateText>GitHub</AlternateText>
+		<Impression>1</Impression>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/Assignment2/piano.jpg</ImageUrl>
+		<Keywords>LinkedIn</Keywords>
+		<NavigateUrl>https://www.linkedin.com/in/mayur-rogheliya/</NavigateUrl>
+		<AlternateText>LinkedIn</AlternateText>
+		<Impression>2</Impression>
+	</Ad>
+</Advertisements>

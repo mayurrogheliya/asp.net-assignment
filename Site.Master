@@ -52,17 +52,26 @@
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Assignment1
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/Assignment1/assignment11">Assignment1.1</a></li>
-            <li><a class="dropdown-item" href="/Assignment1/assignment12">Assignment1.2</a></li>
-            <li><a class="dropdown-item" href="/Assignment1/assignment13">Assignment1.3</a></li>
-            <li><a class="dropdown-item" href="/Assignment1/assignment14">Assignment1.4</a></li>
-          </ul>
-        </li>
-
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                 Assignment1
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Assignment1/assignment11">Assignment1.1</a></li>
+                                <li><a class="dropdown-item" href="/Assignment1/assignment12">Assignment1.2</a></li>
+                                <li><a class="dropdown-item" href="/Assignment1/assignment13">Assignment1.3</a></li>
+                                <li><a class="dropdown-item" href="/Assignment1/assignment14">Assignment1.4</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Assignment2
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="/Assignment2/assignment21">Assignment2.1</a></li>
+                                <li><a class="dropdown-item" href="/Assignment2/assignment22">Assignment2.2</a></li>
+                                <li><a class="dropdown-item" href="/Assignment2/assignment23">Assignment2.3</a></li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
