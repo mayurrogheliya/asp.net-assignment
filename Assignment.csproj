@@ -106,6 +106,7 @@
     <Content Include="Assignment2\AdvertisementMain.xml" />
     <Content Include="Assignment2\assignment21.aspx" />
     <Content Include="Assignment2\assignment22.aspx" />
+    <Content Include="Assignment2\assignment23.aspx" />
     <Content Include="Assignment2\music-prod.jpg" />
     <Content Include="Assignment2\piano.jpg" />
     <Content Include="Content\bootstrap-grid.css" />
@@ -234,6 +235,13 @@
     <Compile Include="Assignment2\assignment22.aspx.designer.cs">
       <DependentUpon>assignment22.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Assignment2\assignment23.aspx.cs">
+      <DependentUpon>assignment23.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Assignment2\assignment23.aspx.designer.cs">
+      <DependentUpon>assignment23.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -269,6 +277,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Assignment2\Images\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
