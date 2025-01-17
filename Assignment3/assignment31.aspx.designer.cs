@@ -42,6 +42,15 @@ namespace WebApplication1.Assignment3
         protected global::System.Web.UI.WebControls.TextBox name;
 
         /// <summary>
+        /// rfvName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvName;
+
+        /// <summary>
         /// branch control.
         /// </summary>
         /// <remarks>
@@ -49,6 +58,15 @@ namespace WebApplication1.Assignment3
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox branch;
+
+        /// <summary>
+        /// rfvBranch control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvBranch;
 
         /// <summary>
         /// division control.
@@ -60,6 +78,15 @@ namespace WebApplication1.Assignment3
         protected global::System.Web.UI.WebControls.TextBox division;
 
         /// <summary>
+        /// rfvDivision control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvDivision;
+
+        /// <summary>
         /// semester control.
         /// </summary>
         /// <remarks>
@@ -67,6 +94,15 @@ namespace WebApplication1.Assignment3
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox semester;
+
+        /// <summary>
+        /// rfvSemester control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvSemester;
 
         /// <summary>
         /// male control.
@@ -105,6 +141,15 @@ namespace WebApplication1.Assignment3
         protected global::System.Web.UI.WebControls.TextBox address;
 
         /// <summary>
+        /// rfvAddress control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvAddress;
+
+        /// <summary>
         /// Button1 control.
         /// </summary>
         /// <remarks>
@@ -132,6 +177,15 @@ namespace WebApplication1.Assignment3
         protected global::System.Web.UI.WebControls.TextBox email;
 
         /// <summary>
+        /// rfvEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvEmail;
+
+        /// <summary>
         /// contact control.
         /// </summary>
         /// <remarks>
@@ -139,6 +193,15 @@ namespace WebApplication1.Assignment3
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox contact;
+
+        /// <summary>
+        /// rfvContact control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvContact;
 
         /// <summary>
         /// Button2 control.
